@@ -2,7 +2,7 @@
 
 Personal repository for World of Warcraft game settings, custom configurations, macros, addons, & other related tools/options.
 
-## Wraith of the Litch King Classic (Version: 3.4.1.48120)
+## Wrath of the Lich King Classic (Version: 3.4.1.48120)
 
 [![](/docs/wotlk_logo.png)](/woltk/woltk_README.md)
 
