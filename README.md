@@ -6,7 +6,6 @@ Personal repository for World of Warcraft game settings, custom configurations, 
 
 [![](/docs/wotlk_logo.png)](/woltk/woltk_README.md)
 
-
 ## PowerShell WoW WTF & Interface Game Folders Backup Script
 
 [wow-backup.ps1](/wow-backup.ps1)
