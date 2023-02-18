@@ -4,7 +4,7 @@ Personal repository for World of Warcraft game settings, custom configurations, 
 
 ## Wrath of the Lich King Classic (Version: 3.4.1.48120)
 
-[![](/docs/wotlk_logo.png)](/woltk/woltk_README.md)
+[![](/docs/wotlk_logo.png)](/woltk/README.md)
 
 ## PowerShell WoW WTF & Interface Game Folders Backup Script
 
