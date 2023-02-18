@@ -25,7 +25,3 @@
 - [Hunter](/woltk/Macros/Hunter/)
 - [Warlock](/woltk/Macros/Warlock/)
 - [General](/woltk/Macros/General/)
-  
-## "Interface" & "WTF" Game Folders Backup
-- [WTF](/woltk/Backup%20of%20Working%20Game%20Folders/WTF.zip)
-- [Interface](/woltk/Backup%20of%20Working%20Game%20Folders/Interface.zip)
