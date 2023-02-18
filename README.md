@@ -14,4 +14,4 @@ Personal repository for World of Warcraft game settings, custom configurations, 
 
 Overview of slot numbers for character items, action bars, bag slots, and logitech G600 mouse buttons key bindings map.
 
-[![](/docs/interface_slots.png)]()
+[![](/docs/interface_slots.png)](/docs/interface_slots.png)
