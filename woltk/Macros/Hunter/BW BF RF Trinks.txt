@@ -1,0 +1,7 @@
+#showtooltip
+/cast Bestial Wrath
+/cast Blood Fury
+/cast Rapid Fire
+/use 13
+/use 14
+/Cast Kill Command

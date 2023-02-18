@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] Hellfire; Rain of Fire
+/cast [mod:shift] Hellfire; Rain of Fire

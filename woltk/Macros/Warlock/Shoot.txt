@@ -1,0 +1,4 @@
+#showtooltip Shoot
+/cleartarget [dead][help]
+/cast !Shoot
+/petattack

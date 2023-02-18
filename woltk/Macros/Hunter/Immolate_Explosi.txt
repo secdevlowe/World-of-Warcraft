@@ -1,0 +1,4 @@
+#showtooltip [modifier:shift] Immolation Trap; Explosive Trap
+/stopcasting
+/stopattack
+/cast [modifier:shift] Immolation Trap; Explosive Trap

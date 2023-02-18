@@ -1,0 +1,5 @@
+#showtooltip [mod:alt]Dreadsteed; [flyable]Green Wind Rider
+# /equipslot [nomounted]13 0 1
+/cast [nomounted,mod:alt]Dreadsteed; [nomounted,flyable]Green Wind Rider; [nomounted]Dreadsteed
+# /equipslot 13 0 1
+/dismount [mounted,noflying]

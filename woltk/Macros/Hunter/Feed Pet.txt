@@ -1,0 +1,3 @@
+#showtooltip <INSERT_FOOD_ITEM_TO_FEED_PET>
+/cast [pet, nodead] Feed Pet
+/use <INSERT_FOOD_ITEM_TO_FEED_PET>

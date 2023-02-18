@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] <INSERT_DRINK_ONE>; <INSERT_DRINK_TWO>;
+/use [mod:shift] <INSERT_DRINK_ONE>; <INSERT_DRINK_TWO>;

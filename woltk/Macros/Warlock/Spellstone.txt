@@ -1,0 +1,5 @@
+#showtooltip [mod:shift] Fel Firestone; Grand Spellstone
+/cast [mod:shift] Create Firestone; Create Spellstone
+/use [mod:shift] Fel Firestone; Grand Spellstone
+/use 16
+/click StaticPopup1Button1

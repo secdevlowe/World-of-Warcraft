@@ -1,0 +1,3 @@
+#showtooltip [mod:shift] Death Coil; [mod:ctrl] Shadowflame; Shadow Bolt 
+/cast [mod:shift] Death Coil; [mod:ctrl] Shadowflame; Shadow Bolt
+/petattack

@@ -1,0 +1,4 @@
+#showtooltip [modifier:shift] Frost Trap; Freezing Trap
+/stopcasting
+/stopattack
+/cast [modifier:shift] Frost Trap; Freezing Trap

@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] Haunt; Unstable Affliction
+/cast [mod:shift] Haunt; Unstable Affliction

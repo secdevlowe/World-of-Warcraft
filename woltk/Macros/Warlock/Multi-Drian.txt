@@ -1,0 +1,4 @@
+#showtooltip [mod:ctrl] Drain Mana; [mod:alt] Drain Life; Drain Soul
+/cleartarget [dead][help]
+/cast [mod:ctrl] Drain Mana; [mod:alt] Drain Life; Drain Soul
+/petattack

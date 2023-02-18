@@ -1,0 +1,3 @@
+#showtooltip Evasion
+/cast Feint
+/cast Evasion

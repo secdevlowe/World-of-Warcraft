@@ -1,0 +1,4 @@
+#showtooltip
+/use [mod:shift] 14
+/stopmacro [mod:shift]
+/use 13

@@ -1,0 +1,10 @@
+#showtooltip
+/cast [mod:shift] Wing Clip
+/stopcasting
+/cleartarget
+/targetlasttarget
+/cast Raptor Strike
+/startattack
+/cast Mongoose Bite
+/petattack
+/Cast Kill Command

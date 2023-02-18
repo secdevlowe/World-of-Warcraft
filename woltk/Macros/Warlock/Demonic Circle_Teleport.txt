@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] Demonic Circle: Teleport; Demonic Circle: Summon
+/cast [mod:shift] Demonic Circle: Teleport; Demonic Circle: Summon

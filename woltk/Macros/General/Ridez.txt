@@ -1,0 +1,3 @@
+#showtooltip [mod:alt] Dreadsteed; [flyable]Green Wind Rider
+/cast [nomounted,mod:alt ]Dreadsteed; [nomounted,flyable] Green Wind Rider; [nomounted] Dreadsteed
+/dismount [mounted,noflying]

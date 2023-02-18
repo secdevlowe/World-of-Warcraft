@@ -1,0 +1,4 @@
+#showtooltip
+/cast [mod:shift] !Aspect of the Pack
+/stopmacro [mod:shift]
+/cast !Aspect of the Cheetah

@@ -1,0 +1,4 @@
+#showtooltip !Aspect of the Hawk [mod:shift] !Aspect of the Viper
+/cast [mod:shift] !Aspect of the Viper
+/stopmacro [mod:shift]
+/cast !Aspect of the Hawk

@@ -1,0 +1,2 @@
+#showtooltip [modifier:shift] Rupture; Slice and Dice
+/cast [modifier:shift] Rupture; Slice and Dice

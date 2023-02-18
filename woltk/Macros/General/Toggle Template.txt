@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] ABILITY1; ABILITY2
+/cast [mod:shift] ABILITY1; ABILITY2

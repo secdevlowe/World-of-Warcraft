@@ -1,0 +1,8 @@
+#showtooltip
+/cleartarget [dead][help]
+/cast [mod:shift] !Tranquilizing Shot
+/stopmacro [mod:shift]
+/cast Arcane Shot
+/cast !Auto Shot
+/petattack
+/Cast Kill Command

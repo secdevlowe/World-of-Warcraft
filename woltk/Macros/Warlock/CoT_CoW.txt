@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] Curse of Weakness; [mod:ctrl] Curse of the Elements; Curse of Tongues;
+/cast [mod:shift] Curse of Weakness; [mod:ctrl] Curse of the Elements; Curse of Tongues;

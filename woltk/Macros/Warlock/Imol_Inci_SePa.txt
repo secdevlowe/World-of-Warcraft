@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] Incinerate(Rank 2);  [mod:ctrl] Searing Pain(Rank 8); Immolate(Rank 9)
+/cast [mod:shift] Incinerate(Rank 2);  [mod:ctrl] Searing Pain(Rank 8); Immolate(Rank 9)

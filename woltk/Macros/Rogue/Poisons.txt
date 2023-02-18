@@ -1,0 +1,4 @@
+#showtooltip Deadly Poison
+/use Deadly Poison;
+/use [button:1] 16; [button:2] 17;
+/click StaticPopup1Button13

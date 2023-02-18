@@ -1,0 +1,3 @@
+#showtooltip [mod:shift] Curse of Doom; Seed of Corruption;
+/cast [mod:shift] Curse of Doom; Seed of Corruption;
+/petattack

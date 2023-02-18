@@ -1,0 +1,3 @@
+#showtooltip
+/use [button:2] Create Healthstone; Demonic Healthstone#showtooltip [mod:shift] Fel Armor(Rank 2); Health Funnel(Rank 8)
+/cast [mod:shift] Fel Armor(Rank 2); Health Funnel(Rank 8)

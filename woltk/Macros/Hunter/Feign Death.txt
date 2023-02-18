@@ -1,0 +1,4 @@
+#showtooltip Feign Death
+/stopattack
+/cast Feign Death
+/petpassive

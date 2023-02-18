@@ -1,0 +1,2 @@
+#showtooltip
+/cast [nostealth] Vanish; [stealth] Distract

@@ -1,0 +1,5 @@
+#showtooltip
+/use [@pet,nodead,exists] Mend Pet
+/stopmacro [@pet,nodead,exists]
+/use [@pet,dead,exists] Revive Pet
+/castsequence reset=2 Call Pet, Revive Pet

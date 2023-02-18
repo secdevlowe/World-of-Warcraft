@@ -1,0 +1,4 @@
+#showtooltip
+/cast [combat,modifier:shift] Riposte; [combat] Sinister Strike
+/cast [stealth] cheap shot
+/cast [nostealth] Stealth;

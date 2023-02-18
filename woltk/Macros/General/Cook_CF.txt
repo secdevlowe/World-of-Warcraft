@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] Basic Campfire; Cooking
+/cast [mod:shift] Basic Campfire; Cooking

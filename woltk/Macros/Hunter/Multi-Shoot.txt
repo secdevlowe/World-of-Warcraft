@@ -1,0 +1,6 @@
+#showtooltip
+/cleartarget [dead][help]
+/cast Multi-Shot
+/cast !Auto Shot
+/petattack
+/Cast Kill Command

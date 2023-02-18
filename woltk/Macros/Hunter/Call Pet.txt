@@ -1,0 +1,5 @@
+#showtooltip
+/petfollow
+/petpassive
+/cast Dash
+/cast Dive

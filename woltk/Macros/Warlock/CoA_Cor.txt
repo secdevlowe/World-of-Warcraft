@@ -1,0 +1,2 @@
+#showtooltip [mod:shift] Curse of Agony; Corruption
+/cast [mod:shift] Curse of Agony; Corruption

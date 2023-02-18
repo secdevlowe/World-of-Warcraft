@@ -1,0 +1,8 @@
+#showtooltip
+/cleartarget [dead][help]
+/cast [mod:shift] !Concussive Shot
+/stopmacro [mod:shift]
+/cast Serpent Sting
+/cast !Auto Shot
+/petattack
+/Cast Kill Command
