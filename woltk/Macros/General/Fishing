@@ -1,0 +1,2 @@
+/equip [noequipped:Fishing Pole] Fishing Pole
+/cast [equipped:Fishing Pole] Fishing
